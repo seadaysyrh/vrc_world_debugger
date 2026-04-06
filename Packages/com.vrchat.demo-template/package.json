@@ -1,9 +1,9 @@
 {
-  "name": "com.vrchat.demo-template",
-  "displayName": "VRChat Example Package",
+  "name": "com.seadays.vrc-world-debugger",
+  "displayName": "VRC World Debugger",
   "version": "0.0.7",
   "unity": "2022.3",
-  "description": "Simple Package for testing Automation",
+  "description": "World Debugger",
   "vrchatVersion": "2022.1.1",
   "author": {
     "name": "Momo the Monster",
